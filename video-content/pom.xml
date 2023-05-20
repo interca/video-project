@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+        <parent>
+            <groupId>com.video</groupId>
+            <version>0.0.1-SNAPSHOT</version>
+            <artifactId>video-parentt</artifactId>
+            <!--指定父工程pom的地址-->
+            <relativePath>../video-parentt</relativePath>
+        </parent>
+
+    <packaging>pom</packaging>
+    <groupId>com.video</groupId>
+    <artifactId>video-content</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>video-content</name>
+    <description>video-content</description>
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <!--模块聚合-->
+    <modules>
+        <module>video-content-api</module>
+        <module>video-content-model</module>
+        <module>video-content-service</module>
+    </modules>
+
+
+</project>
