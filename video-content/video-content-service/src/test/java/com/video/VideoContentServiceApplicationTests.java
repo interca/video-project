@@ -1,10 +1,10 @@
-package com.video.videocontentapi;
+package com.video;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VideoContentApiApplicationTests {
+class VideoContentServiceApplicationTests {
 
     @Test
     void contextLoads() {
