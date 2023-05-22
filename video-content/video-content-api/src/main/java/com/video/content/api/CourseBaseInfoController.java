@@ -8,12 +8,13 @@ import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.*;
 
+import java.time.LocalDateTime;
 import java.util.Arrays;
 
 @RestController
 @Api(value = "课程信息编辑接口", tags = "课程信息编辑接口")
 public class CourseBaseInfoController {
-    @GetMapping("/course/list")
+    @PostMapping("/course/list")
     @ApiOperation("课程查询接口")
     public PageResult<CourseBase> list(PageParams pageParams, @RequestBody(required = false) QueryCourseParamDto queryCourseParams) {
         CourseBase courseBase = new CourseBase();
@@ -24,6 +25,8 @@ public class CourseBaseInfoController {
         result.setPage(1);
         result.setPageSize(10);
         result.setCounts(1);
+        courseBase.setCreateDate(LocalDateTime.now());
+        courseBase.setChangeDate(LocalDateTime.now());
         System.out.println(result);
         return result;
     }
