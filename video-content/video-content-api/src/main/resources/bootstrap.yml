@@ -1,5 +1,6 @@
 server:
   servlet:
+    #请求路径
     context-path: /content
   port: 63040
 
