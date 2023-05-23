@@ -1,0 +1,15 @@
+# 微服务配置
+spring:
+  application:
+    #服务名称
+    name: content-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/video_content?useSSL=false
+    username: root
+    password: 13538026482
+    driver-class-name: com.mysql.jdbc.Driver
+
+
+# 日志文件配置路径
+logging:
+  config: classpath:log4j2-dev.xml
