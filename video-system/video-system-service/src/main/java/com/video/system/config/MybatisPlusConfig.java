@@ -1,4 +1,4 @@
-package com.xuecheng.system.config;
+package com.video.system.config;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
  * </p>
  */
 @Configuration
-@MapperScan("com.xuecheng.system.mapper")
+@MapperScan("com.video.system.mapper")
 public class MybatisPlusConfig {
 	/**
 	 * 新的分页插件

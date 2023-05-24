@@ -1,0 +1,872 @@
+2023-05-24 21:00:02,369 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:00:02,369 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:00:02,371 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:00:02,371 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:00:32,384 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:00:32,384 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:00:32,384 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:00:32,384 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:01:02,393 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:01:02,393 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:01:02,393 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:01:02,393 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:01:32,401 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:01:32,401 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:01:32,401 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:01:32,401 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:02:02,402 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:02:02,402 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:02:02,402 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:02:02,402 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:02:32,416 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:02:32,416 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:02:32,416 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:02:32,416 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:03:02,423 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:03:02,423 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:03:02,423 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:03:02,423 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:03:32,427 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:03:32,427 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:03:32,427 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:03:32,427 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:04:02,439 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:04:02,439 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:04:02,439 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:04:02,439 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:04:32,446 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:04:32,446 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:04:32,446 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:04:32,446 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:04:38,020 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@48e2a1f5: (connection has passed maxLifetime)
+2023-05-24 21:04:38,020 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@48e2a1f5: (connection has passed maxLifetime)
+2023-05-24 21:04:38,026 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ed5c94
+2023-05-24 21:04:38,026 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ed5c94
+2023-05-24 21:04:49,460 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@29993032: (connection has passed maxLifetime)
+2023-05-24 21:04:49,460 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@29993032: (connection has passed maxLifetime)
+2023-05-24 21:04:49,463 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3624c059
+2023-05-24 21:04:49,463 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3624c059
+2023-05-24 21:05:02,450 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:05:02,450 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:05:02,450 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:05:02,450 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:05:11,135 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@49e4bcd2: (connection has passed maxLifetime)
+2023-05-24 21:05:11,135 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@49e4bcd2: (connection has passed maxLifetime)
+2023-05-24 21:05:11,141 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37f2d92e
+2023-05-24 21:05:11,141 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37f2d92e
+2023-05-24 21:05:21,893 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@21403ac5: (connection has passed maxLifetime)
+2023-05-24 21:05:21,893 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@21403ac5: (connection has passed maxLifetime)
+2023-05-24 21:05:21,896 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e52ff93
+2023-05-24 21:05:21,896 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e52ff93
+2023-05-24 21:05:25,384 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4500f9ce: (connection has passed maxLifetime)
+2023-05-24 21:05:25,384 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4500f9ce: (connection has passed maxLifetime)
+2023-05-24 21:05:25,389 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f6ff5a8
+2023-05-24 21:05:25,389 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f6ff5a8
+2023-05-24 21:05:26,680 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8d9b6e9: (connection has passed maxLifetime)
+2023-05-24 21:05:26,680 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8d9b6e9: (connection has passed maxLifetime)
+2023-05-24 21:05:26,685 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2eba6a28
+2023-05-24 21:05:26,685 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2eba6a28
+2023-05-24 21:05:27,492 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@607d30fe: (connection has passed maxLifetime)
+2023-05-24 21:05:27,492 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@607d30fe: (connection has passed maxLifetime)
+2023-05-24 21:05:27,496 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f400ae7
+2023-05-24 21:05:27,496 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f400ae7
+2023-05-24 21:05:29,177 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@43df3f5: (connection has passed maxLifetime)
+2023-05-24 21:05:29,177 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@43df3f5: (connection has passed maxLifetime)
+2023-05-24 21:05:29,180 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8f8e990
+2023-05-24 21:05:29,180 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8f8e990
+2023-05-24 21:05:32,455 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:05:32,455 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:05:32,455 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:05:32,455 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:05:36,147 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@52cfb1: (connection has passed maxLifetime)
+2023-05-24 21:05:36,147 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@52cfb1: (connection has passed maxLifetime)
+2023-05-24 21:05:36,151 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7000be87
+2023-05-24 21:05:36,151 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7000be87
+2023-05-24 21:05:39,801 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@515752a6: (connection has passed maxLifetime)
+2023-05-24 21:05:39,801 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@515752a6: (connection has passed maxLifetime)
+2023-05-24 21:05:39,805 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@313db4bc
+2023-05-24 21:05:39,805 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@313db4bc
+2023-05-24 21:06:02,470 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:06:02,470 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:06:02,470 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:06:02,470 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:06:32,476 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:06:32,476 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:06:32,476 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:06:32,476 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:07:02,477 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:07:02,477 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:07:02,477 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:07:02,477 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:07:32,480 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:07:32,480 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:07:32,480 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:07:32,480 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:08:02,484 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:08:02,484 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:08:02,484 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:08:02,484 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:08:32,494 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:08:32,494 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:08:32,494 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:08:32,494 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:09:02,501 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:09:02,501 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:09:02,501 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:09:02,501 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:09:32,516 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:09:32,516 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:09:32,516 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:09:32,516 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:10:02,524 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:10:02,524 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:10:02,524 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:10:02,524 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:10:32,530 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:10:32,530 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:10:32,530 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:10:32,530 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:11:02,547 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:11:02,547 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:11:02,547 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:11:02,547 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:11:32,548 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:11:32,548 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:11:32,548 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:11:32,548 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:12:02,553 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:12:02,553 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:12:02,553 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:12:02,553 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:12:32,555 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:12:32,555 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:12:32,555 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:12:32,555 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:13:02,558 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:13:02,558 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:13:02,558 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:13:02,558 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:13:32,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:13:32,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:13:32,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:13:32,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:14:02,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:14:02,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:14:02,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:14:02,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:14:32,564 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:14:32,564 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:14:32,564 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:14:32,564 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:15:02,573 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:15:02,573 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:15:02,573 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:15:02,573 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:15:32,578 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:15:32,578 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:15:32,579 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:15:32,579 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:16:02,584 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:16:02,584 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:16:02,584 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:16:02,584 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:16:32,597 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:16:32,597 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:16:32,597 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:16:32,597 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:17:02,600 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:17:02,600 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:17:02,600 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:17:02,600 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:17:32,611 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:17:32,611 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:17:32,611 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:17:32,611 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:18:02,612 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:18:02,612 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:18:02,612 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:18:02,612 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:18:32,625 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:18:32,625 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:18:32,625 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:18:32,625 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:19:02,640 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:19:02,640 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:19:02,640 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:19:02,640 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:19:32,653 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:19:32,653 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:19:32,653 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:19:32,653 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:20:02,661 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:20:02,661 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:20:02,661 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:20:02,661 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:20:32,670 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:20:32,670 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:20:32,670 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:20:32,670 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:21:02,670 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:21:02,670 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:21:02,670 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:21:02,670 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:21:32,673 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:21:32,673 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:21:32,673 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:21:32,673 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:22:02,682 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:22:02,682 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:22:02,683 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:22:02,683 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:22:32,685 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:22:32,685 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:22:32,685 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:22:32,685 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:23:02,693 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:23:02,693 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:23:02,693 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:23:02,693 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:23:32,706 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:23:32,706 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:23:32,706 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:23:32,706 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:24:02,723 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:24:02,723 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:24:02,723 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:24:02,723 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:24:32,732 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:24:32,732 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:24:32,732 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:24:32,732 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:25:02,734 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:25:02,734 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:25:02,734 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:25:02,734 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:25:32,747 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:25:32,747 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:25:32,747 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:25:32,747 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:26:02,762 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:26:02,762 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:26:02,762 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:26:02,762 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:26:32,772 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:26:32,772 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:26:32,772 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:26:32,772 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:27:02,787 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:27:02,787 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:27:02,787 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:27:02,787 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:27:32,803 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:27:32,803 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:27:32,805 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:27:32,805 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:28:02,815 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:28:02,815 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:28:02,815 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:28:02,815 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:28:32,829 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:28:32,829 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:28:32,829 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:28:32,829 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:29:02,837 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:29:02,837 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:29:02,837 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:29:02,837 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:29:32,839 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:29:32,839 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:29:32,840 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:29:32,840 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:30:02,851 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:30:02,851 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:30:02,851 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:30:02,851 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:30:32,857 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:30:32,857 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:30:32,857 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:30:32,857 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:31:02,861 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:31:02,861 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:31:02,861 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:31:02,861 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:31:32,875 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:31:32,875 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:31:32,875 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:31:32,875 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:32:02,883 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:32:02,883 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:32:02,883 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:32:02,883 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:32:32,885 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:32:32,885 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:32:32,885 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:32:32,885 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:33:02,888 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:33:02,888 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:33:02,888 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:33:02,888 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:33:32,899 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:33:32,899 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:33:32,899 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:33:32,899 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:34:02,900 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:34:02,900 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:34:02,900 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:34:02,900 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:34:17,892 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ed5c94: (connection has passed maxLifetime)
+2023-05-24 21:34:17,892 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ed5c94: (connection has passed maxLifetime)
+2023-05-24 21:34:17,898 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a377793
+2023-05-24 21:34:17,898 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a377793
+2023-05-24 21:34:30,612 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3624c059: (connection has passed maxLifetime)
+2023-05-24 21:34:30,612 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3624c059: (connection has passed maxLifetime)
+2023-05-24 21:34:30,617 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2c9ed299
+2023-05-24 21:34:30,617 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2c9ed299
+2023-05-24 21:34:32,914 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:34:32,914 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:34:32,914 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:34:32,914 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:34:41,527 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@37f2d92e: (connection has passed maxLifetime)
+2023-05-24 21:34:41,527 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@37f2d92e: (connection has passed maxLifetime)
+2023-05-24 21:34:41,530 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ca6474c
+2023-05-24 21:34:41,530 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ca6474c
+2023-05-24 21:34:44,112 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f400ae7: (connection has passed maxLifetime)
+2023-05-24 21:34:44,112 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f400ae7: (connection has passed maxLifetime)
+2023-05-24 21:34:44,116 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d9b4d77
+2023-05-24 21:34:44,116 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3d9b4d77
+2023-05-24 21:34:48,839 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8f8e990: (connection has passed maxLifetime)
+2023-05-24 21:34:48,839 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@8f8e990: (connection has passed maxLifetime)
+2023-05-24 21:34:48,844 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@c6c14af
+2023-05-24 21:34:48,844 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@c6c14af
+2023-05-24 21:34:56,443 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7000be87: (connection has passed maxLifetime)
+2023-05-24 21:34:56,443 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7000be87: (connection has passed maxLifetime)
+2023-05-24 21:34:56,448 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@53649477
+2023-05-24 21:34:56,448 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@53649477
+2023-05-24 21:35:00,388 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1f6ff5a8: (connection has passed maxLifetime)
+2023-05-24 21:35:00,388 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1f6ff5a8: (connection has passed maxLifetime)
+2023-05-24 21:35:00,392 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12599e4c
+2023-05-24 21:35:00,392 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12599e4c
+2023-05-24 21:35:02,924 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:35:02,924 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:35:02,924 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:35:02,924 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:35:05,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2eba6a28: (connection has passed maxLifetime)
+2023-05-24 21:35:05,899 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2eba6a28: (connection has passed maxLifetime)
+2023-05-24 21:35:05,904 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12c4bacf
+2023-05-24 21:35:05,904 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12c4bacf
+2023-05-24 21:35:10,583 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e52ff93: (connection has passed maxLifetime)
+2023-05-24 21:35:10,583 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5e52ff93: (connection has passed maxLifetime)
+2023-05-24 21:35:10,587 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@53f9b0f4
+2023-05-24 21:35:10,587 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@53f9b0f4
+2023-05-24 21:35:27,544 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@313db4bc: (connection has passed maxLifetime)
+2023-05-24 21:35:27,544 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@313db4bc: (connection has passed maxLifetime)
+2023-05-24 21:35:27,550 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ddb069d
+2023-05-24 21:35:27,550 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ddb069d
+2023-05-24 21:35:32,925 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:35:32,925 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:35:32,925 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:35:32,925 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:36:02,938 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:36:02,938 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:36:02,938 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:36:02,938 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:36:32,948 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:36:32,948 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:36:32,948 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:36:32,948 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:37:02,963 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:37:02,963 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:37:02,963 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:37:02,963 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:37:32,973 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:37:32,973 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:37:32,973 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:37:32,973 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:38:02,980 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:38:02,980 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:38:02,980 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:38:02,980 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:38:32,986 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:38:32,986 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:38:32,986 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:38:32,986 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:39:02,999 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:39:02,999 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:39:02,999 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:39:02,999 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:39:33,013 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:39:33,013 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:39:33,013 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:39:33,013 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:40:03,025 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:40:03,025 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:40:03,025 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:40:03,025 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:40:33,029 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:40:33,029 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:40:33,029 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:40:33,029 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:41:03,044 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:41:03,044 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:41:03,044 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:41:03,044 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:41:33,046 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:41:33,046 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:41:33,046 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:41:33,046 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:42:03,060 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:42:03,060 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:42:03,060 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:42:03,060 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:42:33,065 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:42:33,065 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:42:33,065 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:42:33,065 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:43:03,066 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:43:03,066 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:43:03,066 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:43:03,066 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:43:33,072 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:43:33,072 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:43:33,072 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:43:33,072 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:44:03,078 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:44:03,078 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:44:03,078 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:44:03,078 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:44:33,081 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:44:33,081 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:44:33,081 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:44:33,081 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:45:03,088 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:45:03,088 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:45:03,088 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:45:03,088 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:45:33,102 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:45:33,102 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:45:33,102 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:45:33,102 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:46:03,106 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:46:03,106 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:46:03,106 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:46:03,106 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:46:33,117 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:46:33,117 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:46:33,117 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:46:33,117 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:47:03,125 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:47:03,125 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:47:03,125 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:47:03,125 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:47:33,128 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:47:33,128 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:47:33,128 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:47:33,128 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:48:03,132 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:48:03,132 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:48:03,132 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:48:03,132 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:48:33,134 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:48:33,134 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:48:33,134 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:48:33,134 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-05-24 21:49:00,415 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-05-24 21:49:00,415 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-05-24 21:49:00,419 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-05-24 21:49:00,419 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-05-24 21:49:00,419 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:49:00,419 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-05-24 21:49:00,421 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5a377793: (connection evicted)
+2023-05-24 21:49:00,421 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5a377793: (connection evicted)
+2023-05-24 21:49:00,421 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2c9ed299: (connection evicted)
+2023-05-24 21:49:00,421 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2c9ed299: (connection evicted)
+2023-05-24 21:49:00,422 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ca6474c: (connection evicted)
+2023-05-24 21:49:00,422 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ca6474c: (connection evicted)
+2023-05-24 21:49:00,423 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3d9b4d77: (connection evicted)
+2023-05-24 21:49:00,423 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3d9b4d77: (connection evicted)
+2023-05-24 21:49:00,424 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@c6c14af: (connection evicted)
+2023-05-24 21:49:00,424 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@c6c14af: (connection evicted)
+2023-05-24 21:49:00,425 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53649477: (connection evicted)
+2023-05-24 21:49:00,425 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53649477: (connection evicted)
+2023-05-24 21:49:00,425 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@12599e4c: (connection evicted)
+2023-05-24 21:49:00,425 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@12599e4c: (connection evicted)
+2023-05-24 21:49:00,426 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@12c4bacf: (connection evicted)
+2023-05-24 21:49:00,426 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@12c4bacf: (connection evicted)
+2023-05-24 21:49:00,426 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53f9b0f4: (connection evicted)
+2023-05-24 21:49:00,426 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53f9b0f4: (connection evicted)
+2023-05-24 21:49:00,426 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5ddb069d: (connection evicted)
+2023-05-24 21:49:00,426 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5ddb069d: (connection evicted)
+2023-05-24 21:49:00,426 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-05-24 21:49:00,426 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-05-24 21:49:00,426 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-05-24 21:49:00,426 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-05-24 21:55:03,324 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-05-24 21:55:03,324 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-05-24 21:55:03,331 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-05-24 21:55:03,331 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-05-24 21:55:03,340 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-05-24 21:55:03,340 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-05-24 21:55:03,342 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-05-24 21:55:03,342 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-05-24 21:55:03,342 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-05-24 21:55:03,342 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-05-24 21:55:03,343 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-05-24 21:55:03,343 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-05-24 21:55:03,348 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-05-24 21:55:03,348 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-05-24 21:55:03,372 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-05-24 21:55:03,372 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-05-24 21:55:03,530 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-05-24 21:55:03,530 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-05-24 21:55:03,536 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-05-24 21:55:03,536 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-05-24 21:55:03,537 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-05-24 21:55:03,537 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-05-24 21:55:03,537 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-05-24 21:55:03,537 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-05-24 21:55:03,537 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-05-24 21:55:03,537 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-05-24 21:55:03,537 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-05-24 21:55:03,537 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-05-24 21:55:03,748 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2023-05-24 21:55:03,748 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2023-05-24 21:55:04,370 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-05-24 21:55:04,370 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-05-24 21:55:04,423 INFO [main][GenericScope.java:295] - BeanFactory id=84cde229-c13f-3f42-88f9-8b42a1448593
+2023-05-24 21:55:04,423 INFO [main][GenericScope.java:295] - BeanFactory id=84cde229-c13f-3f42-88f9-8b42a1448593
+2023-05-24 21:55:04,670 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2023-05-24 21:55:04,670 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2023-05-24 21:55:04,679 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2023-05-24 21:55:04,679 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2023-05-24 21:55:04,679 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-05-24 21:55:04,679 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2023-05-24 21:55:04,679 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-05-24 21:55:04,679 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2023-05-24 21:55:04,764 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-05-24 21:55:04,764 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2023-05-24 21:55:04,764 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1003 ms
+2023-05-24 21:55:04,764 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1003 ms
+2023-05-24 21:55:04,965 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-05-24 21:55:04,965 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-05-24 21:55:06,027 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.insert
+2023-05-24 21:55:06,027 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.insert
+2023-05-24 21:55:06,032 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.delete
+2023-05-24 21:55:06,032 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.delete
+2023-05-24 21:55:06,034 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.deleteByMap
+2023-05-24 21:55:06,034 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.deleteByMap
+2023-05-24 21:55:06,054 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.deleteById
+2023-05-24 21:55:06,054 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.deleteById
+2023-05-24 21:55:06,056 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.deleteBatchIds
+2023-05-24 21:55:06,056 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.deleteBatchIds
+2023-05-24 21:55:06,059 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.update
+2023-05-24 21:55:06,059 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.update
+2023-05-24 21:55:06,061 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.updateById
+2023-05-24 21:55:06,061 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.updateById
+2023-05-24 21:55:06,061 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectById
+2023-05-24 21:55:06,061 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectById
+2023-05-24 21:55:06,063 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectBatchIds
+2023-05-24 21:55:06,063 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectBatchIds
+2023-05-24 21:55:06,064 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectByMap
+2023-05-24 21:55:06,064 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectByMap
+2023-05-24 21:55:06,066 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectOne
+2023-05-24 21:55:06,066 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectOne
+2023-05-24 21:55:06,068 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectCount
+2023-05-24 21:55:06,068 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectCount
+2023-05-24 21:55:06,069 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectMaps
+2023-05-24 21:55:06,069 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectMaps
+2023-05-24 21:55:06,071 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectMapsPage
+2023-05-24 21:55:06,071 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectMapsPage
+2023-05-24 21:55:06,073 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectObjs
+2023-05-24 21:55:06,073 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectObjs
+2023-05-24 21:55:06,074 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectList
+2023-05-24 21:55:06,074 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectList
+2023-05-24 21:55:06,075 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectPage
+2023-05-24 21:55:06,075 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseBaseMapper.selectPage
+2023-05-24 21:55:06,345 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-05-24 21:55:06,345 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-05-24 21:55:06,373 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-05-24 21:55:06,373 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-05-24 21:55:06,375 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-05-24 21:55:06,375 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-05-24 21:55:06,376 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-05-24 21:55:06,376 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-05-24 21:55:06,376 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-05-24 21:55:06,376 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-05-24 21:55:06,377 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-05-24 21:55:06,377 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-05-24 21:55:06,377 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-05-24 21:55:06,377 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-05-24 21:55:06,378 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-05-24 21:55:06,378 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-05-24 21:55:06,378 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-05-24 21:55:06,378 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-05-24 21:55:06,378 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-05-24 21:55:06,378 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-05-24 21:55:06,379 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-05-24 21:55:06,379 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-05-24 21:55:06,380 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-05-24 21:55:06,380 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-05-24 21:55:06,381 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-05-24 21:55:06,429 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-05-24 21:55:06,429 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2023-05-24 21:55:06,538 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.insert
+2023-05-24 21:55:06,538 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.insert
+2023-05-24 21:55:06,540 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.delete
+2023-05-24 21:55:06,540 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.delete
+2023-05-24 21:55:06,541 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.deleteByMap
+2023-05-24 21:55:06,541 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.deleteByMap
+2023-05-24 21:55:06,542 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.deleteById
+2023-05-24 21:55:06,542 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.deleteById
+2023-05-24 21:55:06,542 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.deleteBatchIds
+2023-05-24 21:55:06,542 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.deleteBatchIds
+2023-05-24 21:55:06,544 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.update
+2023-05-24 21:55:06,544 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.update
+2023-05-24 21:55:06,545 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.updateById
+2023-05-24 21:55:06,545 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.updateById
+2023-05-24 21:55:06,545 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectById
+2023-05-24 21:55:06,545 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectById
+2023-05-24 21:55:06,546 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectBatchIds
+2023-05-24 21:55:06,546 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectBatchIds
+2023-05-24 21:55:06,546 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectByMap
+2023-05-24 21:55:06,546 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectByMap
+2023-05-24 21:55:06,548 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectOne
+2023-05-24 21:55:06,548 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectOne
+2023-05-24 21:55:06,549 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectCount
+2023-05-24 21:55:06,549 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectCount
+2023-05-24 21:55:06,550 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectMaps
+2023-05-24 21:55:06,550 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectMaps
+2023-05-24 21:55:06,551 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectMapsPage
+2023-05-24 21:55:06,551 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectMapsPage
+2023-05-24 21:55:06,552 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectObjs
+2023-05-24 21:55:06,552 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectObjs
+2023-05-24 21:55:06,553 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectList
+2023-05-24 21:55:06,553 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectList
+2023-05-24 21:55:06,554 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectPage
+2023-05-24 21:55:06,554 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseCategoryMapper.selectPage
+2023-05-24 21:55:06,558 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.insert
+2023-05-24 21:55:06,558 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.insert
+2023-05-24 21:55:06,558 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.delete
+2023-05-24 21:55:06,558 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.delete
+2023-05-24 21:55:06,559 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.deleteByMap
+2023-05-24 21:55:06,559 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.deleteByMap
+2023-05-24 21:55:06,560 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.deleteById
+2023-05-24 21:55:06,560 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.deleteById
+2023-05-24 21:55:06,561 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.deleteBatchIds
+2023-05-24 21:55:06,561 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.deleteBatchIds
+2023-05-24 21:55:06,562 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.update
+2023-05-24 21:55:06,562 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.update
+2023-05-24 21:55:06,563 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.updateById
+2023-05-24 21:55:06,563 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.updateById
+2023-05-24 21:55:06,563 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectById
+2023-05-24 21:55:06,563 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectById
+2023-05-24 21:55:06,564 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectBatchIds
+2023-05-24 21:55:06,564 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectBatchIds
+2023-05-24 21:55:06,565 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectByMap
+2023-05-24 21:55:06,565 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectByMap
+2023-05-24 21:55:06,566 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectOne
+2023-05-24 21:55:06,566 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectOne
+2023-05-24 21:55:06,568 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectCount
+2023-05-24 21:55:06,568 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectCount
+2023-05-24 21:55:06,569 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectMaps
+2023-05-24 21:55:06,569 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectMaps
+2023-05-24 21:55:06,570 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectMapsPage
+2023-05-24 21:55:06,570 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectMapsPage
+2023-05-24 21:55:06,571 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectObjs
+2023-05-24 21:55:06,571 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectObjs
+2023-05-24 21:55:06,572 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectList
+2023-05-24 21:55:06,572 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectList
+2023-05-24 21:55:06,573 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectPage
+2023-05-24 21:55:06,573 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseMarketMapper.selectPage
+2023-05-24 21:55:06,579 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.insert
+2023-05-24 21:55:06,579 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.insert
+2023-05-24 21:55:06,581 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.delete
+2023-05-24 21:55:06,581 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.delete
+2023-05-24 21:55:06,582 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.deleteByMap
+2023-05-24 21:55:06,582 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.deleteByMap
+2023-05-24 21:55:06,583 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.deleteById
+2023-05-24 21:55:06,583 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.deleteById
+2023-05-24 21:55:06,584 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.deleteBatchIds
+2023-05-24 21:55:06,584 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.deleteBatchIds
+2023-05-24 21:55:06,586 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.update
+2023-05-24 21:55:06,586 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.update
+2023-05-24 21:55:06,587 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.updateById
+2023-05-24 21:55:06,587 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.updateById
+2023-05-24 21:55:06,587 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectById
+2023-05-24 21:55:06,587 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectById
+2023-05-24 21:55:06,588 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectBatchIds
+2023-05-24 21:55:06,588 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectBatchIds
+2023-05-24 21:55:06,589 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectByMap
+2023-05-24 21:55:06,589 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectByMap
+2023-05-24 21:55:06,590 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectOne
+2023-05-24 21:55:06,590 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectOne
+2023-05-24 21:55:06,592 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectCount
+2023-05-24 21:55:06,592 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectCount
+2023-05-24 21:55:06,593 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectMaps
+2023-05-24 21:55:06,593 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectMaps
+2023-05-24 21:55:06,595 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectMapsPage
+2023-05-24 21:55:06,595 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectMapsPage
+2023-05-24 21:55:06,596 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectObjs
+2023-05-24 21:55:06,596 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectObjs
+2023-05-24 21:55:06,597 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectList
+2023-05-24 21:55:06,597 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectList
+2023-05-24 21:55:06,599 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectPage
+2023-05-24 21:55:06,599 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishMapper.selectPage
+2023-05-24 21:55:06,603 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.insert
+2023-05-24 21:55:06,603 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.insert
+2023-05-24 21:55:06,605 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.delete
+2023-05-24 21:55:06,605 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.delete
+2023-05-24 21:55:06,606 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.deleteByMap
+2023-05-24 21:55:06,606 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.deleteByMap
+2023-05-24 21:55:06,608 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.deleteById
+2023-05-24 21:55:06,608 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.deleteById
+2023-05-24 21:55:06,609 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.deleteBatchIds
+2023-05-24 21:55:06,609 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.deleteBatchIds
+2023-05-24 21:55:06,611 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.update
+2023-05-24 21:55:06,611 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.update
+2023-05-24 21:55:06,613 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.updateById
+2023-05-24 21:55:06,613 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.updateById
+2023-05-24 21:55:06,613 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectById
+2023-05-24 21:55:06,613 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectById
+2023-05-24 21:55:06,614 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectBatchIds
+2023-05-24 21:55:06,614 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectBatchIds
+2023-05-24 21:55:06,615 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectByMap
+2023-05-24 21:55:06,615 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectByMap
+2023-05-24 21:55:06,616 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectOne
+2023-05-24 21:55:06,616 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectOne
+2023-05-24 21:55:06,617 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectCount
+2023-05-24 21:55:06,617 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectCount
+2023-05-24 21:55:06,619 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectMaps
+2023-05-24 21:55:06,619 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectMaps
+2023-05-24 21:55:06,620 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectMapsPage
+2023-05-24 21:55:06,620 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectMapsPage
+2023-05-24 21:55:06,622 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectObjs
+2023-05-24 21:55:06,622 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectObjs
+2023-05-24 21:55:06,623 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectList
+2023-05-24 21:55:06,623 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectList
+2023-05-24 21:55:06,625 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectPage
+2023-05-24 21:55:06,625 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CoursePublishPreMapper.selectPage
+2023-05-24 21:55:06,629 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.insert
+2023-05-24 21:55:06,629 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.insert
+2023-05-24 21:55:06,631 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.delete
+2023-05-24 21:55:06,631 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.delete
+2023-05-24 21:55:06,632 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.deleteByMap
+2023-05-24 21:55:06,632 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.deleteByMap
+2023-05-24 21:55:06,634 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.deleteById
+2023-05-24 21:55:06,634 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.deleteById
+2023-05-24 21:55:06,635 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.deleteBatchIds
+2023-05-24 21:55:06,635 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.deleteBatchIds
+2023-05-24 21:55:06,636 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.update
+2023-05-24 21:55:06,636 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.update
+2023-05-24 21:55:06,637 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.updateById
+2023-05-24 21:55:06,637 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.updateById
+2023-05-24 21:55:06,637 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectById
+2023-05-24 21:55:06,637 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectById
+2023-05-24 21:55:06,639 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectBatchIds
+2023-05-24 21:55:06,639 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectBatchIds
+2023-05-24 21:55:06,640 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectByMap
+2023-05-24 21:55:06,640 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectByMap
+2023-05-24 21:55:06,642 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectOne
+2023-05-24 21:55:06,642 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectOne
+2023-05-24 21:55:06,643 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectCount
+2023-05-24 21:55:06,643 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectCount
+2023-05-24 21:55:06,644 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectMaps
+2023-05-24 21:55:06,644 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectMaps
+2023-05-24 21:55:06,645 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectMapsPage
+2023-05-24 21:55:06,645 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectMapsPage
+2023-05-24 21:55:06,646 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectObjs
+2023-05-24 21:55:06,646 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectObjs
+2023-05-24 21:55:06,648 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectList
+2023-05-24 21:55:06,648 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectList
+2023-05-24 21:55:06,649 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectPage
+2023-05-24 21:55:06,649 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.CourseTeacherMapper.selectPage
+2023-05-24 21:55:06,653 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.insert
+2023-05-24 21:55:06,653 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.insert
+2023-05-24 21:55:06,654 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.delete
+2023-05-24 21:55:06,654 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.delete
+2023-05-24 21:55:06,655 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.deleteByMap
+2023-05-24 21:55:06,655 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.deleteByMap
+2023-05-24 21:55:06,656 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.deleteById
+2023-05-24 21:55:06,656 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.deleteById
+2023-05-24 21:55:06,657 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.deleteBatchIds
+2023-05-24 21:55:06,657 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.deleteBatchIds
+2023-05-24 21:55:06,659 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.update
+2023-05-24 21:55:06,659 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.update
+2023-05-24 21:55:06,666 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.updateById
+2023-05-24 21:55:06,666 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.updateById
+2023-05-24 21:55:06,667 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectById
+2023-05-24 21:55:06,667 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectById
+2023-05-24 21:55:06,668 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectBatchIds
+2023-05-24 21:55:06,668 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectBatchIds
+2023-05-24 21:55:06,670 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectByMap
+2023-05-24 21:55:06,670 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectByMap
+2023-05-24 21:55:06,671 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectOne
+2023-05-24 21:55:06,671 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectOne
+2023-05-24 21:55:06,672 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectCount
+2023-05-24 21:55:06,672 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectCount
+2023-05-24 21:55:06,673 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectMaps
+2023-05-24 21:55:06,673 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectMaps
+2023-05-24 21:55:06,675 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectMapsPage
+2023-05-24 21:55:06,675 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectMapsPage
+2023-05-24 21:55:06,676 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectObjs
+2023-05-24 21:55:06,676 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectObjs
+2023-05-24 21:55:06,677 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectList
+2023-05-24 21:55:06,677 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectList
+2023-05-24 21:55:06,678 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectPage
+2023-05-24 21:55:06,678 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMapper.selectPage
+2023-05-24 21:55:06,682 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.insert
+2023-05-24 21:55:06,682 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.insert
+2023-05-24 21:55:06,683 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.delete
+2023-05-24 21:55:06,683 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.delete
+2023-05-24 21:55:06,683 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.deleteByMap
+2023-05-24 21:55:06,683 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.deleteByMap
+2023-05-24 21:55:06,684 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.deleteById
+2023-05-24 21:55:06,684 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.deleteById
+2023-05-24 21:55:06,685 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.deleteBatchIds
+2023-05-24 21:55:06,685 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.deleteBatchIds
+2023-05-24 21:55:06,686 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.update
+2023-05-24 21:55:06,686 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.update
+2023-05-24 21:55:06,687 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.updateById
+2023-05-24 21:55:06,687 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.updateById
+2023-05-24 21:55:06,687 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectById
+2023-05-24 21:55:06,687 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectById
+2023-05-24 21:55:06,688 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectBatchIds
+2023-05-24 21:55:06,688 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectBatchIds
+2023-05-24 21:55:06,689 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectByMap
+2023-05-24 21:55:06,689 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectByMap
+2023-05-24 21:55:06,690 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectOne
+2023-05-24 21:55:06,690 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectOne
+2023-05-24 21:55:06,691 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectCount
+2023-05-24 21:55:06,691 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectCount
+2023-05-24 21:55:06,691 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectMaps
+2023-05-24 21:55:06,691 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectMaps
+2023-05-24 21:55:06,692 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectMapsPage
+2023-05-24 21:55:06,692 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectMapsPage
+2023-05-24 21:55:06,693 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectObjs
+2023-05-24 21:55:06,693 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectObjs
+2023-05-24 21:55:06,694 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectList
+2023-05-24 21:55:06,694 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectList
+2023-05-24 21:55:06,696 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectPage
+2023-05-24 21:55:06,696 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.content.mapper.TeachplanMediaMapper.selectPage
+2023-05-24 21:55:06,740 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2023-05-24 21:55:06,740 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2023-05-24 21:55:06,761 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2023-05-24 21:55:06,761 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2023-05-24 21:55:06,762 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-05-24 21:55:06,762 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2023-05-24 21:55:06,775 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-05-24 21:55:06,775 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2023-05-24 21:55:06,809 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-05-24 21:55:06,809 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2023-05-24 21:55:06,953 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 3.99 seconds (JVM running for 5.308)
+2023-05-24 21:55:06,953 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 3.99 seconds (JVM running for 5.308)
+2023-05-24 21:55:16,784 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-05-24 21:55:16,784 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,7 +1,8 @@
-package com.xuecheng.system.mapper;
+package com.video.system.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.xuecheng.system.model.po.Dictionary;
+import com.video.system.model.po.Dictionary;
+import org.apache.ibatis.annotations.Mapper;
 
 /**
  * <p>
@@ -10,6 +11,7 @@ import com.xuecheng.system.model.po.Dictionary;
  *
  * @author itcast
  */
+@Mapper
 public interface DictionaryMapper extends BaseMapper<Dictionary> {
 
 }

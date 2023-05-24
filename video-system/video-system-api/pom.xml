@@ -7,9 +7,9 @@
         <groupId>com.video</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>xuecheng-plus-system-api</artifactId>
-    <name>xuecheng-plus-system-api</name>
-    <description>xuecheng-plus-system-api</description>
+    <artifactId>video-system-api</artifactId>
+    <name>video-system-api</name>
+    <description>video-system-api</description>
 
     <dependencies>
         <dependency>

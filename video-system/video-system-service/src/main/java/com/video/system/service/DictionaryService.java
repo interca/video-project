@@ -1,7 +1,7 @@
-package com.xuecheng.system.service;
+package com.video.system.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.xuecheng.system.model.po.Dictionary;
+import com.video.system.model.po.Dictionary;
 
 import java.util.List;
 

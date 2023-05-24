@@ -1,7 +1,7 @@
-package com.xuecheng.system.controller;
+package com.video.system.controller;
 
-import com.xuecheng.system.model.po.Dictionary;
-import com.xuecheng.system.service.DictionaryService;
+import com.video.system.model.po.Dictionary;
+import com.video.system.service.DictionaryService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -33,4 +33,5 @@ public class DictionaryController  {
     public Dictionary getByCode(@PathVariable String code) {
         return dictionaryService.getByCode(code);
     }
+
 }

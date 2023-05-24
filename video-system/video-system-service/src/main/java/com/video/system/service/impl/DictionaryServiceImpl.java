@@ -1,10 +1,10 @@
-package com.xuecheng.system.service.impl;
+package com.video.system.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.xuecheng.system.mapper.DictionaryMapper;
-import com.xuecheng.system.model.po.Dictionary;
-import com.xuecheng.system.service.DictionaryService;
+import com.video.system.mapper.DictionaryMapper;
+import com.video.system.model.po.Dictionary;
+import com.video.system.service.DictionaryService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
