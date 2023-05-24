@@ -20,6 +20,18 @@ spring:
 logging:
   config: classpath:log4j2-dev.xml
 
+
+#mybatiesplus配置
+mybatis-plus:
+  #mybaties xml 加载sql
+  mapper-locations: classpath:mapper/*Mapper.xml
+  configuration:
+    # 驼峰
+    map-underscore-to-camel-case: true
+    # 自动配置日志
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
 # swagger 文档配置
 swagger:
   title: "学成在线内容管理系统"

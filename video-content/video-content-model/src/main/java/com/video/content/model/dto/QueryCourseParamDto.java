@@ -2,12 +2,14 @@ package com.video.content.model.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 /**
  * 课程查询条件模型类
  */
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class QueryCourseParamDto {
     // 审核状态
     private String auditStatus;
