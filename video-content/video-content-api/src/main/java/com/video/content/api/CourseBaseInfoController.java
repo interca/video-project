@@ -3,6 +3,8 @@ package com.video.content.api;
 
 import com.video.base.model.PageParams;
 import com.video.base.model.PageResult;
+import com.video.content.model.dto.AddCourseDto;
+import com.video.content.model.dto.CourseBaseInfoDto;
 import com.video.content.model.dto.QueryCourseParamDto;
 import com.video.content.model.po.CourseBase;
 import com.video.content.service.CourseBaseInfoService;
@@ -20,6 +22,13 @@ public class CourseBaseInfoController {
 
     @Autowired
     private CourseBaseInfoService courseBaseInfoService;
+
+    /**
+     * 课程查询
+     * @param pageParams
+     * @param queryCourseParams
+     * @return
+     */
     @PostMapping("/course/list")
     @ApiOperation("课程查询接口")
     public PageResult<CourseBase> list(PageParams pageParams, @RequestBody(required = false) QueryCourseParamDto queryCourseParams) {
@@ -27,4 +36,17 @@ public class CourseBaseInfoController {
         return courseBaseInfoService.queryCourseBaseList(pageParams,queryCourseParams);
     }
 
+
+    /**
+     * 新增课程
+     * @param addCourseDto
+     * @return
+     */
+    @ApiOperation("新增课程基础信息接口")
+    @PostMapping("/course")
+    public CourseBaseInfoDto createCourseBase(@RequestBody AddCourseDto addCourseDto) {
+        // 机构id，暂时硬编码模拟假数据
+        Long companyId = 22L;
+        return courseBaseInfoService.createCourseBase(companyId, addCourseDto);
+    }
 }
