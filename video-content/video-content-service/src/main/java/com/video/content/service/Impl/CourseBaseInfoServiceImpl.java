@@ -3,6 +3,7 @@ package com.video.content.service.Impl;
 import com.baomidou.mybatisplus.core.assist.ISqlRunner;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.video.base.exception.VideoException;
 import com.video.base.model.PageParams;
 import com.video.base.model.PageResult;
 import com.video.content.mapper.CourseBaseMapper;
@@ -80,28 +81,7 @@ public class CourseBaseInfoServiceImpl implements CourseBaseInfoService {
     @Override
     @Transactional
     public CourseBaseInfoDto createCourseBase(Long companyId, AddCourseDto addCourseDto) {
-        // 1. 合法性校验
-        if (StringUtils.isBlank(addCourseDto.getName())) {
-            throw new RuntimeException("课程名称为空");
-        }
-        if (StringUtils.isBlank(addCourseDto.getMt())) {
-            throw new RuntimeException("课程分类为空");
-        }
-        if (StringUtils.isBlank(addCourseDto.getSt())) {
-            throw new RuntimeException("课程分类为空");
-        }
-        if (StringUtils.isBlank(addCourseDto.getGrade())) {
-            throw new RuntimeException("课程等级为空");
-        }
-        if (StringUtils.isBlank(addCourseDto.getTeachmode())) {
-            throw new RuntimeException("教育模式为空");
-        }
-        if (StringUtils.isBlank(addCourseDto.getUsers())) {
-            throw new RuntimeException("适应人群为空");
-        }
-        if (StringUtils.isBlank(addCourseDto.getCharge())) {
-            throw new RuntimeException("收费规则为空");
-        }
+
         // 2. 封装请求参数
         // 封装课程基本信息
         CourseBase courseBase = new CourseBase();
@@ -126,7 +106,7 @@ public class CourseBaseInfoServiceImpl implements CourseBaseInfoService {
         if ("201001".equals(charge)) {
             Float price = addCourseDto.getPrice();
             if (price == null || price.floatValue() <= 0) {
-                throw new RuntimeException("课程设置了收费，价格不能为空，且必须大于0");
+                VideoException.cast("课程设置了收费，价格不能为空，且必须大于0");
             }
         }
         // 2.7 插入课程营销信息表
