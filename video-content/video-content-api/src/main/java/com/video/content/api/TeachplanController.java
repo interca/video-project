@@ -1,14 +1,14 @@
 package com.video.content.api;
 
+import com.video.content.model.dto.SaveTeachplanDto;
 import com.video.content.model.dto.TeachplanDto;
+import com.video.content.model.po.Teachplan;
 import com.video.content.service.TeachplanService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -26,5 +26,17 @@ public class TeachplanController {
     @GetMapping("/teachplan/{courseId}/tree-nodes")
     public List<TeachplanDto> getTreeNodes(@PathVariable Long courseId) {
         return teachplanService.findTeachplanTree(courseId);
+    }
+
+
+
+    /**
+     * 课程计划
+     * @param teachplanDto
+     */
+    @ApiOperation("课程计划创建或修改")
+    @PostMapping("/teachplan")
+    public void saveTeachplan(@RequestBody SaveTeachplanDto teachplanDto) {
+      teachplanService.saveTeachplan(teachplanDto);
     }
 }

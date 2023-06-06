@@ -1,4 +1,3 @@
-2023-06-06 20:21:05,491 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:34] - 系统异常：Request method 'GET' not supported
-2023-06-06 20:22:46,473 ERROR [http-nio-63040-exec-9][GlobalExceptionHandler.java:34] - 系统异常：Request method 'GET' not supported
-2023-06-06 20:24:22,457 ERROR [http-nio-63040-exec-1][GlobalExceptionHandler.java:26] - 系统异常：只允许修改本机构的课程
-2023-06-06 20:24:36,005 ERROR [http-nio-63040-exec-5][GlobalExceptionHandler.java:26] - 系统异常：只允许修改本机构的课程
+2023-06-06 22:03:06,632 ERROR [http-nio-63040-exec-7][GlobalExceptionHandler.java:26] - 系统异常：只允许修改本机构的课程
+2023-06-06 22:08:17,206 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:26] - 系统异常：只允许修改本机构的课程
+2023-06-06 22:09:12,827 ERROR [http-nio-63040-exec-4][GlobalExceptionHandler.java:26] - 系统异常：只允许修改本机构的课程
