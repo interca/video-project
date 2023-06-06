@@ -11,6 +11,7 @@ import com.video.content.mapper.CourseCategoryMapper;
 import com.video.content.mapper.CourseMarketMapper;
 import com.video.content.model.dto.AddCourseDto;
 import com.video.content.model.dto.CourseBaseInfoDto;
+import com.video.content.model.dto.EditCourseDto;
 import com.video.content.model.dto.QueryCourseParamDto;
 import com.video.content.model.po.CourseBase;
 import com.video.content.model.po.CourseCategory;
@@ -118,7 +119,9 @@ public class CourseBaseInfoServiceImpl implements CourseBaseInfoService {
         return getCourseBaseInfo(courseId);
     }
 
-    private CourseBaseInfoDto getCourseBaseInfo(Long courseId) {
+
+
+    public CourseBaseInfoDto getCourseBaseInfo(Long courseId) {
         CourseBaseInfoDto courseBaseInfoDto = new CourseBaseInfoDto();
         // 1. 根据课程id查询课程基本信息
         CourseBase courseBase = courseBaseMapper.selectById(courseId);
@@ -141,5 +144,50 @@ public class CourseBaseInfoServiceImpl implements CourseBaseInfoService {
         // 3.4 设置课程大分类名称
         courseBaseInfoDto.setMtName(courseCategoryByMt.getName());
         return courseBaseInfoDto;
+    }
+
+
+    /**
+     * 修改课程
+     * @param companyId 机构id，本机构只能修改本机构课程
+     * @param editCourseDto
+     * @return
+     */
+    @Override
+    @Transactional
+    public CourseBaseInfoDto updateCourseBase(Long companyId, EditCourseDto editCourseDto) {
+        // 判断当前修改课程是否属于当前机构
+        Long courseId = editCourseDto.getId();
+        CourseBase courseBase = courseBaseMapper.selectById(courseId);
+        if (!companyId.equals(courseBase.getCompanyId())) {
+            VideoException.cast("只允许修改本机构的课程");
+        }
+        // 拷贝对象
+        BeanUtils.copyProperties(editCourseDto, courseBase);
+        // 更新，设置更新时间
+        courseBase.setChangeDate(LocalDateTime.now());
+        courseBaseMapper.updateById(courseBase);
+        // 查询课程营销信息
+        CourseMarket courseMarket = courseMarketMapper.selectById(courseId);
+        // 由于课程营销信息不是必填项，故这里先判断一下
+        if (courseMarket == null) {
+            courseMarket = new CourseMarket();
+        }
+        courseMarket.setId(courseId);
+        // 获取课程收费状态并设置
+        String charge = editCourseDto.getCharge();
+        courseMarket.setCharge(charge);
+        // 如果课程收费，则判断价格是否正常
+        if (charge.equals("201001")) {
+            Float price = editCourseDto.getPrice();
+            if (price <= 0 || price == null) {
+               VideoException.cast("课程设置了收费，价格不能为空，且必须大于0");
+            }
+        }
+        // 对象拷贝
+        BeanUtils.copyProperties(editCourseDto, courseMarket);
+        // 有则更新，无则插入
+        courseMarketMapper.updateById(courseMarket);
+        return getCourseBaseInfo(courseId);
     }
 }

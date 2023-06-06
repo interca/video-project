@@ -38,7 +38,6 @@ public class GlobalExceptionHandler {
     @ExceptionHandler(MethodArgumentNotValidException.class)
     @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
     public RestErrorResponse doMethodArgumentNotValidException(MethodArgumentNotValidException exception) {
-        System.out.println("ssss");
         // 由于用户输入的内容可能存在多处错误，所以我们要将所有错误信息都提示给用户
         BindingResult bindingResult = exception.getBindingResult();
         List<String>list = new ArrayList<>();
