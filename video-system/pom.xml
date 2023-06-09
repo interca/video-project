@@ -16,6 +16,7 @@
     <description>video-system</description>
     <packaging>pom</packaging>
 
+
     <modules>
         <module>video-system-api</module>
         <module>video-system-model</module>

@@ -1,25 +1,41 @@
-server:
-  servlet:
-    #请求路径
-    context-path: /content
-  port: 63040
+#server:
+#  servlet:
+#    #请求路径
+#    context-path: /content
+#  port: 63040
 
 # 微服务配置
 spring:
   application:
     #服务名称
-    name: content-api
-  datasource:
-    url: jdbc:mysql://localhost:3306/video_content?useSSL=false
-    username: root
-    password: 13538026482
-    driver-class-name: com.mysql.jdbc.Driver
+    name: content-api   #服务名
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8848
+      discovery:   #服务注册
+        namespace: dev402
+        group: xuecheng-plus-project
+      config:    #拉取配置
+        namespace: dev402
+        group: xuecheng-plus-project
+        file-extension: yaml
+        refresh-enabled: true
+        #加载service的配置文件
+        extension-configs:
+          - data-id: content-service-${spring.profiles.active}.yaml
+            group: xuecheng-plus-project
+            refresh: true
+        #加载公共配置文件
+        shared-configs:
+          - data-id: swagger-${spring.profiles.active}.yaml
+            group: xuecheng-plus-common
+            refresh: true
+          - data-id: logging-${spring.profiles.active}.yaml
+            group: xuecheng-plus-common
+            refresh: true
 
-
-# 日志文件配置路径
-logging:
-  config: classpath:log4j2-dev.xml
-
+  profiles:
+    active: dev  #环境名
 
 #mybatiesplus配置
 mybatis-plus:
@@ -32,10 +48,25 @@ mybatis-plus:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
 
 
+
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/video_content?useSSL=false
+#    username: root
+#    password: 13538026482
+#    driver-class-name: com.mysql.jdbc.Driver
+
+
+
+# 日志文件配置路径
+#logging:
+#  config: classpath:log4j2-dev.xml
+
+
+
 # swagger 文档配置
-swagger:
-  title: "学成在线内容管理系统"
-  description: "内容系统管理系统对课程相关信息进行业务管理数据"
-  base-package: com.video.content
-  enabled: true
-  version: 1.0.0
+#swagger:
+#  title: "学成在线内容管理系统"
+#  description: "内容系统管理系统对课程相关信息进行业务管理数据"
+#  base-package: com.video.content
+#  enabled: true
+#  version: 1.0.0

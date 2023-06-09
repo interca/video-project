@@ -7,6 +7,12 @@ spring:
   application:
     #服务名称
     name: system-api
+  cloud:
+   nacos:
+     server-addr: 127.0.0.1:8848
+     discovery:
+       namespace: dev402
+       group: xuecheng-plus-project
   datasource:
     url: jdbc:mysql://localhost:3306/video_system?useSSL=false
     username: root
