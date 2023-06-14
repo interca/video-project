@@ -1,0 +1,3 @@
+2023-06-06 22:03:06,632 ERROR [http-nio-63040-exec-7][GlobalExceptionHandler.java:26] - 系统异常：只允许修改本机构的课程
+2023-06-06 22:08:17,206 ERROR [http-nio-63040-exec-3][GlobalExceptionHandler.java:26] - 系统异常：只允许修改本机构的课程
+2023-06-06 22:09:12,827 ERROR [http-nio-63040-exec-4][GlobalExceptionHandler.java:26] - 系统异常：只允许修改本机构的课程
