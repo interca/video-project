@@ -1,15 +1,22 @@
-# 微服务配置
 spring:
   application:
-    #服务名称
     name: media-service
-  datasource:
-    url: jdbc:mysql://localhost:3306/media_content?useSSL=false
-    username: root
-    password: 13538026482
-    driver-class-name: com.mysql.jdbc.Driver
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8848
+        #discovery:
+        # namespace: dev402
+        # group: xuecheng-plus-project
+      config:
+        namespace: dev402
+        group: xuecheng-plus-project
+        file-extension: yaml
+        refresh-enabled: true
+        shared-configs:
+          - data-id: logging-${spring.profiles.active}.yaml
+            group: xuecheng-plus-common
+            refresh: true
 
-
-# 日志文件配置路径
-logging:
-  config: classpath:log4j2-dev.xml
+  #profiles默认为dev
+  profiles:
+    active: dev

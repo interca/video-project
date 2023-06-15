@@ -3,6 +3,8 @@ package com.video.media.service;
 import com.video.base.model.PageParams;
 import com.video.base.model.PageResult;
 import com.video.media.model.dto.QueryMediaParamsDto;
+import com.video.media.model.dto.UploadFileParamsDto;
+import com.video.media.model.dto.UploadFileResultDto;
 import com.video.media.model.po.MediaFiles;
 
 /**
@@ -24,5 +26,14 @@ public interface MediaFileService {
  */
  public PageResult<MediaFiles> queryMediaFiels(Long companyId, PageParams pageParams, QueryMediaParamsDto queryMediaParamsDto);
 
+
+ /**
+  * @description 上传文件的通用接口
+  * @param companyId           机构id
+  * @param uploadFileParamsDto 文件信息
+  * @param localFilePath  本地文件路径
+  * @return com.xuecheng.media.model.dto.UploadFileResultDto
+  */
+ UploadFileResultDto uploadFile(Long companyId, UploadFileParamsDto uploadFileParamsDto,  String localFilePath);
 
 }
