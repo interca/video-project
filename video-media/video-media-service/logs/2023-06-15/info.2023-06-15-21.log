@@ -1,0 +1,544 @@
+2023-06-15 21:18:18,490 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-06-15 21:18:18,490 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-06-15 21:18:18,498 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-06-15 21:18:18,498 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-06-15 21:18:18,506 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-06-15 21:18:18,506 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-06-15 21:18:18,509 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-06-15 21:18:18,509 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-06-15 21:18:18,510 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-06-15 21:18:18,510 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-06-15 21:18:18,510 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-06-15 21:18:18,510 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-06-15 21:18:18,515 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-06-15 21:18:18,515 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-06-15 21:18:18,545 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-06-15 21:18:18,545 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-06-15 21:18:18,686 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-06-15 21:18:18,686 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-06-15 21:18:18,695 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-06-15 21:18:18,695 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-06-15 21:18:18,696 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-06-15 21:18:18,696 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-06-15 21:18:18,696 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-06-15 21:18:18,696 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-06-15 21:18:18,696 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-06-15 21:18:18,696 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-06-15 21:18:18,697 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-06-15 21:18:18,697 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-06-15 21:18:19,008 WARN [background-preinit][CompositeLog.java:127] - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2023-06-15 21:18:19,008 WARN [background-preinit][CompositeLog.java:127] - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2023-06-15 21:18:19,848 WARN [main][NacosPropertySourceBuilder.java:87] - Ignore the empty nacos configuration and get it based on dataId[media-service] & group[DEFAULT_GROUP]
+2023-06-15 21:18:19,848 WARN [main][NacosPropertySourceBuilder.java:87] - Ignore the empty nacos configuration and get it based on dataId[media-service] & group[DEFAULT_GROUP]
+2023-06-15 21:18:19,861 WARN [main][NacosPropertySourceBuilder.java:87] - Ignore the empty nacos configuration and get it based on dataId[media-service.properties] & group[DEFAULT_GROUP]
+2023-06-15 21:18:19,861 WARN [main][NacosPropertySourceBuilder.java:87] - Ignore the empty nacos configuration and get it based on dataId[media-service.properties] & group[DEFAULT_GROUP]
+2023-06-15 21:18:19,863 INFO [main][PropertySourceBootstrapConfiguration.java:112] - Located property source: [BootstrapPropertySource {name='bootstrapProperties-media-service.properties,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-media-service,DEFAULT_GROUP'}]
+2023-06-15 21:18:19,863 INFO [main][PropertySourceBootstrapConfiguration.java:112] - Located property source: [BootstrapPropertySource {name='bootstrapProperties-media-service.properties,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-media-service,DEFAULT_GROUP'}]
+2023-06-15 21:18:19,907 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2023-06-15 21:18:19,907 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2023-06-15 21:18:20,329 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-06-15 21:18:20,329 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-06-15 21:18:20,411 INFO [main][GenericScope.java:295] - BeanFactory id=b4073365-4754-33a1-b086-9a1d9bc162e4
+2023-06-15 21:18:20,411 INFO [main][GenericScope.java:295] - BeanFactory id=b4073365-4754-33a1-b086-9a1d9bc162e4
+2023-06-15 21:18:20,621 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-06-15 21:18:20,621 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-06-15 21:18:20,705 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@1981d861'
+2023-06-15 21:18:20,705 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@1981d861'
+2023-06-15 21:18:20,707 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-06-15 21:18:20,707 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-06-15 21:18:21,528 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.insert
+2023-06-15 21:18:21,528 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.insert
+2023-06-15 21:18:21,533 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.delete
+2023-06-15 21:18:21,533 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.delete
+2023-06-15 21:18:21,536 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteByMap
+2023-06-15 21:18:21,536 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteByMap
+2023-06-15 21:18:21,564 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteById
+2023-06-15 21:18:21,564 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteById
+2023-06-15 21:18:21,567 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteBatchIds
+2023-06-15 21:18:21,567 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteBatchIds
+2023-06-15 21:18:21,570 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.update
+2023-06-15 21:18:21,570 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.update
+2023-06-15 21:18:21,573 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.updateById
+2023-06-15 21:18:21,573 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.updateById
+2023-06-15 21:18:21,573 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectById
+2023-06-15 21:18:21,573 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectById
+2023-06-15 21:18:21,575 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectBatchIds
+2023-06-15 21:18:21,575 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectBatchIds
+2023-06-15 21:18:21,576 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectByMap
+2023-06-15 21:18:21,576 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectByMap
+2023-06-15 21:18:21,578 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectOne
+2023-06-15 21:18:21,578 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectOne
+2023-06-15 21:18:21,580 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectCount
+2023-06-15 21:18:21,580 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectCount
+2023-06-15 21:18:21,581 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectMaps
+2023-06-15 21:18:21,581 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectMaps
+2023-06-15 21:18:21,583 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectMapsPage
+2023-06-15 21:18:21,583 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectMapsPage
+2023-06-15 21:18:21,585 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectObjs
+2023-06-15 21:18:21,585 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectObjs
+2023-06-15 21:18:21,587 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectList
+2023-06-15 21:18:21,587 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectList
+2023-06-15 21:18:21,589 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectPage
+2023-06-15 21:18:21,589 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectPage
+2023-06-15 21:18:21,668 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-06-15 21:18:21,668 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-06-15 21:18:21,676 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-06-15 21:18:21,676 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-06-15 21:18:21,676 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-06-15 21:18:21,676 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-06-15 21:18:21,677 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-06-15 21:18:21,677 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-06-15 21:18:21,678 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-06-15 21:18:21,678 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-06-15 21:18:21,678 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-06-15 21:18:21,678 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-06-15 21:18:21,679 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-06-15 21:18:21,679 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-06-15 21:18:21,679 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-06-15 21:18:21,679 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-06-15 21:18:21,680 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-06-15 21:18:21,680 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-06-15 21:18:21,681 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-06-15 21:18:21,681 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-06-15 21:18:21,683 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-06-15 21:18:21,683 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-06-15 21:18:21,684 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-06-15 21:18:21,684 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-06-15 21:18:21,684 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-06-15 21:18:21,684 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-06-15 21:18:21,684 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-06-15 21:18:21,684 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-06-15 21:18:21,684 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-06-15 21:18:21,684 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-06-15 21:18:21,685 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-06-15 21:18:21,685 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-06-15 21:18:22,629 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.insert
+2023-06-15 21:18:22,629 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.insert
+2023-06-15 21:18:22,630 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.delete
+2023-06-15 21:18:22,630 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.delete
+2023-06-15 21:18:22,632 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteByMap
+2023-06-15 21:18:22,632 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteByMap
+2023-06-15 21:18:22,633 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteById
+2023-06-15 21:18:22,633 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteById
+2023-06-15 21:18:22,634 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteBatchIds
+2023-06-15 21:18:22,634 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteBatchIds
+2023-06-15 21:18:22,635 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.update
+2023-06-15 21:18:22,635 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.update
+2023-06-15 21:18:22,636 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.updateById
+2023-06-15 21:18:22,636 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.updateById
+2023-06-15 21:18:22,637 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectById
+2023-06-15 21:18:22,637 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectById
+2023-06-15 21:18:22,638 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectBatchIds
+2023-06-15 21:18:22,638 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectBatchIds
+2023-06-15 21:18:22,639 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectByMap
+2023-06-15 21:18:22,639 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectByMap
+2023-06-15 21:18:22,640 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectOne
+2023-06-15 21:18:22,640 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectOne
+2023-06-15 21:18:22,642 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectCount
+2023-06-15 21:18:22,642 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectCount
+2023-06-15 21:18:22,643 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectMaps
+2023-06-15 21:18:22,643 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectMaps
+2023-06-15 21:18:22,645 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectMapsPage
+2023-06-15 21:18:22,645 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectMapsPage
+2023-06-15 21:18:22,646 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectObjs
+2023-06-15 21:18:22,646 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectObjs
+2023-06-15 21:18:22,647 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectList
+2023-06-15 21:18:22,647 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectList
+2023-06-15 21:18:22,650 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectPage
+2023-06-15 21:18:22,650 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectPage
+2023-06-15 21:18:22,658 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.insert
+2023-06-15 21:18:22,658 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.insert
+2023-06-15 21:18:22,661 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.delete
+2023-06-15 21:18:22,661 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.delete
+2023-06-15 21:18:22,662 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteByMap
+2023-06-15 21:18:22,662 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteByMap
+2023-06-15 21:18:22,663 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteById
+2023-06-15 21:18:22,663 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteById
+2023-06-15 21:18:22,664 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteBatchIds
+2023-06-15 21:18:22,664 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteBatchIds
+2023-06-15 21:18:22,666 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.update
+2023-06-15 21:18:22,666 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.update
+2023-06-15 21:18:22,667 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.updateById
+2023-06-15 21:18:22,667 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.updateById
+2023-06-15 21:18:22,668 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectById
+2023-06-15 21:18:22,668 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectById
+2023-06-15 21:18:22,669 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectBatchIds
+2023-06-15 21:18:22,669 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectBatchIds
+2023-06-15 21:18:22,670 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectByMap
+2023-06-15 21:18:22,670 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectByMap
+2023-06-15 21:18:22,671 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectOne
+2023-06-15 21:18:22,671 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectOne
+2023-06-15 21:18:22,673 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectCount
+2023-06-15 21:18:22,673 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectCount
+2023-06-15 21:18:22,676 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectMaps
+2023-06-15 21:18:22,676 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectMaps
+2023-06-15 21:18:22,678 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectMapsPage
+2023-06-15 21:18:22,678 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectMapsPage
+2023-06-15 21:18:22,679 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectObjs
+2023-06-15 21:18:22,679 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectObjs
+2023-06-15 21:18:22,681 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectList
+2023-06-15 21:18:22,681 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectList
+2023-06-15 21:18:22,682 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectPage
+2023-06-15 21:18:22,682 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectPage
+2023-06-15 21:18:22,691 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.insert
+2023-06-15 21:18:22,691 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.insert
+2023-06-15 21:18:22,693 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.delete
+2023-06-15 21:18:22,693 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.delete
+2023-06-15 21:18:22,694 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteByMap
+2023-06-15 21:18:22,694 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteByMap
+2023-06-15 21:18:22,695 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteById
+2023-06-15 21:18:22,695 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteById
+2023-06-15 21:18:22,697 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteBatchIds
+2023-06-15 21:18:22,697 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteBatchIds
+2023-06-15 21:18:22,699 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.update
+2023-06-15 21:18:22,699 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.update
+2023-06-15 21:18:22,700 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.updateById
+2023-06-15 21:18:22,700 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.updateById
+2023-06-15 21:18:22,701 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectById
+2023-06-15 21:18:22,701 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectById
+2023-06-15 21:18:22,702 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectBatchIds
+2023-06-15 21:18:22,702 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectBatchIds
+2023-06-15 21:18:22,703 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectByMap
+2023-06-15 21:18:22,703 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectByMap
+2023-06-15 21:18:22,705 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectOne
+2023-06-15 21:18:22,705 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectOne
+2023-06-15 21:18:22,707 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectCount
+2023-06-15 21:18:22,707 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectCount
+2023-06-15 21:18:22,709 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectMaps
+2023-06-15 21:18:22,709 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectMaps
+2023-06-15 21:18:22,710 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectMapsPage
+2023-06-15 21:18:22,710 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectMapsPage
+2023-06-15 21:18:22,712 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectObjs
+2023-06-15 21:18:22,712 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectObjs
+2023-06-15 21:18:22,714 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectList
+2023-06-15 21:18:22,714 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectList
+2023-06-15 21:18:22,716 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectPage
+2023-06-15 21:18:22,716 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectPage
+2023-06-15 21:18:22,728 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.insert
+2023-06-15 21:18:22,728 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.insert
+2023-06-15 21:18:22,730 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.delete
+2023-06-15 21:18:22,730 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.delete
+2023-06-15 21:18:22,731 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteByMap
+2023-06-15 21:18:22,731 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteByMap
+2023-06-15 21:18:22,733 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteById
+2023-06-15 21:18:22,733 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteById
+2023-06-15 21:18:22,734 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteBatchIds
+2023-06-15 21:18:22,734 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteBatchIds
+2023-06-15 21:18:22,736 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.update
+2023-06-15 21:18:22,736 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.update
+2023-06-15 21:18:22,737 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.updateById
+2023-06-15 21:18:22,737 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.updateById
+2023-06-15 21:18:22,738 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectById
+2023-06-15 21:18:22,738 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectById
+2023-06-15 21:18:22,740 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectBatchIds
+2023-06-15 21:18:22,740 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectBatchIds
+2023-06-15 21:18:22,741 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectByMap
+2023-06-15 21:18:22,741 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectByMap
+2023-06-15 21:18:22,743 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectOne
+2023-06-15 21:18:22,743 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectOne
+2023-06-15 21:18:22,745 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectCount
+2023-06-15 21:18:22,745 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectCount
+2023-06-15 21:18:22,746 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectMaps
+2023-06-15 21:18:22,746 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectMaps
+2023-06-15 21:18:22,748 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectMapsPage
+2023-06-15 21:18:22,748 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectMapsPage
+2023-06-15 21:18:22,750 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectObjs
+2023-06-15 21:18:22,750 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectObjs
+2023-06-15 21:18:22,751 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectList
+2023-06-15 21:18:22,751 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectList
+2023-06-15 21:18:22,754 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectPage
+2023-06-15 21:18:22,754 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectPage
+2023-06-15 21:18:22,772 INFO [main][StartupInfoLogger.java:61] - Started MinIOTest in 5.165 seconds (JVM running for 7.742)
+2023-06-15 21:18:22,772 INFO [main][StartupInfoLogger.java:61] - Started MinIOTest in 5.165 seconds (JVM running for 7.742)
+2023-06-15 21:18:22,778 INFO [main][ClientWorker.java:169] - [fixed-localhost_8848] [subscribe] media-service.properties+DEFAULT_GROUP
+2023-06-15 21:18:22,778 INFO [main][ClientWorker.java:169] - [fixed-localhost_8848] [subscribe] media-service.properties+DEFAULT_GROUP
+2023-06-15 21:18:22,780 INFO [main][CacheData.java:92] - [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=media-service.properties, group=DEFAULT_GROUP, cnt=1
+2023-06-15 21:18:22,780 INFO [main][CacheData.java:92] - [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=media-service.properties, group=DEFAULT_GROUP, cnt=1
+2023-06-15 21:18:22,782 INFO [main][ClientWorker.java:169] - [fixed-localhost_8848] [subscribe] media-service+DEFAULT_GROUP
+2023-06-15 21:18:22,782 INFO [main][ClientWorker.java:169] - [fixed-localhost_8848] [subscribe] media-service+DEFAULT_GROUP
+2023-06-15 21:18:22,782 INFO [main][CacheData.java:92] - [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=media-service, group=DEFAULT_GROUP, cnt=1
+2023-06-15 21:18:22,782 INFO [main][CacheData.java:92] - [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=media-service, group=DEFAULT_GROUP, cnt=1
+2023-06-15 21:18:22,788 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service.propertiesDEFAULT_GROUPmedia-serviceDEFAULT_GROUP}
+2023-06-15 21:18:22,788 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service.propertiesDEFAULT_GROUPmedia-serviceDEFAULT_GROUP}
+2023-06-15 21:18:22,788 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@23aca4f6]
+2023-06-15 21:18:22,788 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@23aca4f6]
+2023-06-15 21:18:22,843 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service.propertiesDEFAULT_GROUPmedia-serviceDEFAULT_GROUP}
+2023-06-15 21:18:22,843 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service.propertiesDEFAULT_GROUPmedia-serviceDEFAULT_GROUP}
+2023-06-15 21:18:22,844 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@23aca4f6]
+2023-06-15 21:18:22,844 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@23aca4f6]
+2023-06-15 21:18:23,296 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-15 21:18:23,296 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-15 21:18:23,297 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-06-15 21:18:23,297 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-06-15 21:31:29,799 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-06-15 21:31:29,799 DEBUG [background-preinit][LoggerProviders.java:152] - Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+2023-06-15 21:31:29,804 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-06-15 21:31:29,804 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2023-06-15 21:31:29,812 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-06-15 21:31:29,812 DEBUG [background-preinit][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-06-15 21:31:29,814 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-06-15 21:31:29,814 DEBUG [background-preinit][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-06-15 21:31:29,815 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-06-15 21:31:29,815 DEBUG [background-preinit][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-06-15 21:31:29,815 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-06-15 21:31:29,815 DEBUG [background-preinit][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-06-15 21:31:29,820 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-06-15 21:31:29,820 DEBUG [background-preinit][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-06-15 21:31:29,854 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-06-15 21:31:29,854 DEBUG [background-preinit][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-06-15 21:31:30,004 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-06-15 21:31:30,004 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-06-15 21:31:30,019 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-06-15 21:31:30,019 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-06-15 21:31:30,020 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-06-15 21:31:30,020 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-06-15 21:31:30,020 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-06-15 21:31:30,020 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-06-15 21:31:30,020 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-06-15 21:31:30,020 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-06-15 21:31:30,020 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-06-15 21:31:30,020 DEBUG [background-preinit][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-06-15 21:31:30,405 WARN [background-preinit][CompositeLog.java:127] - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2023-06-15 21:31:30,405 WARN [background-preinit][CompositeLog.java:127] - For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2023-06-15 21:31:31,062 WARN [main][NacosPropertySourceBuilder.java:87] - Ignore the empty nacos configuration and get it based on dataId[media-service] & group[DEFAULT_GROUP]
+2023-06-15 21:31:31,062 WARN [main][NacosPropertySourceBuilder.java:87] - Ignore the empty nacos configuration and get it based on dataId[media-service] & group[DEFAULT_GROUP]
+2023-06-15 21:31:31,069 WARN [main][NacosPropertySourceBuilder.java:87] - Ignore the empty nacos configuration and get it based on dataId[media-service.properties] & group[DEFAULT_GROUP]
+2023-06-15 21:31:31,069 WARN [main][NacosPropertySourceBuilder.java:87] - Ignore the empty nacos configuration and get it based on dataId[media-service.properties] & group[DEFAULT_GROUP]
+2023-06-15 21:31:31,070 INFO [main][PropertySourceBootstrapConfiguration.java:112] - Located property source: [BootstrapPropertySource {name='bootstrapProperties-media-service.properties,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-media-service,DEFAULT_GROUP'}]
+2023-06-15 21:31:31,070 INFO [main][PropertySourceBootstrapConfiguration.java:112] - Located property source: [BootstrapPropertySource {name='bootstrapProperties-media-service.properties,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-media-service,DEFAULT_GROUP'}]
+2023-06-15 21:31:31,103 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2023-06-15 21:31:31,103 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2023-06-15 21:31:31,507 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-06-15 21:31:31,507 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-06-15 21:31:31,596 INFO [main][GenericScope.java:295] - BeanFactory id=b4073365-4754-33a1-b086-9a1d9bc162e4
+2023-06-15 21:31:31,596 INFO [main][GenericScope.java:295] - BeanFactory id=b4073365-4754-33a1-b086-9a1d9bc162e4
+2023-06-15 21:31:31,881 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-06-15 21:31:31,881 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-06-15 21:31:31,981 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@118ffcfd'
+2023-06-15 21:31:31,981 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@118ffcfd'
+2023-06-15 21:31:31,982 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-06-15 21:31:31,982 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-06-15 21:31:32,754 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.insert
+2023-06-15 21:31:32,754 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.insert
+2023-06-15 21:31:32,759 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.delete
+2023-06-15 21:31:32,759 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.delete
+2023-06-15 21:31:32,763 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteByMap
+2023-06-15 21:31:32,763 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteByMap
+2023-06-15 21:31:32,795 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteById
+2023-06-15 21:31:32,795 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteById
+2023-06-15 21:31:32,797 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteBatchIds
+2023-06-15 21:31:32,797 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.deleteBatchIds
+2023-06-15 21:31:32,801 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.update
+2023-06-15 21:31:32,801 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.update
+2023-06-15 21:31:32,803 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.updateById
+2023-06-15 21:31:32,803 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.updateById
+2023-06-15 21:31:32,804 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectById
+2023-06-15 21:31:32,804 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectById
+2023-06-15 21:31:32,806 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectBatchIds
+2023-06-15 21:31:32,806 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectBatchIds
+2023-06-15 21:31:32,808 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectByMap
+2023-06-15 21:31:32,808 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectByMap
+2023-06-15 21:31:32,809 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectOne
+2023-06-15 21:31:32,809 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectOne
+2023-06-15 21:31:32,811 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectCount
+2023-06-15 21:31:32,811 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectCount
+2023-06-15 21:31:32,813 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectMaps
+2023-06-15 21:31:32,813 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectMaps
+2023-06-15 21:31:32,815 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectMapsPage
+2023-06-15 21:31:32,815 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectMapsPage
+2023-06-15 21:31:32,817 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectObjs
+2023-06-15 21:31:32,817 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectObjs
+2023-06-15 21:31:32,819 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectList
+2023-06-15 21:31:32,819 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectList
+2023-06-15 21:31:32,821 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectPage
+2023-06-15 21:31:32,821 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaFilesMapper.selectPage
+2023-06-15 21:31:32,901 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-06-15 21:31:32,901 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-06-15 21:31:32,910 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-06-15 21:31:32,910 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-06-15 21:31:32,911 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-06-15 21:31:32,911 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-06-15 21:31:32,912 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-06-15 21:31:32,912 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-06-15 21:31:32,913 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-06-15 21:31:32,913 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-06-15 21:31:32,914 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-06-15 21:31:32,914 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-06-15 21:31:32,914 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-06-15 21:31:32,914 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-06-15 21:31:32,915 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-06-15 21:31:32,915 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-06-15 21:31:32,915 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-06-15 21:31:32,915 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-06-15 21:31:32,917 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-06-15 21:31:32,917 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-06-15 21:31:32,918 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-06-15 21:31:32,918 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-06-15 21:31:32,919 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-06-15 21:31:32,919 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-06-15 21:31:32,919 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-06-15 21:31:32,919 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-06-15 21:31:32,920 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-06-15 21:31:32,920 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-06-15 21:31:32,920 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-06-15 21:31:32,920 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-06-15 21:31:32,920 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-06-15 21:31:32,920 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-06-15 21:31:33,840 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.insert
+2023-06-15 21:31:33,840 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.insert
+2023-06-15 21:31:33,841 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.delete
+2023-06-15 21:31:33,841 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.delete
+2023-06-15 21:31:33,842 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteByMap
+2023-06-15 21:31:33,842 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteByMap
+2023-06-15 21:31:33,843 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteById
+2023-06-15 21:31:33,843 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteById
+2023-06-15 21:31:33,844 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteBatchIds
+2023-06-15 21:31:33,844 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.deleteBatchIds
+2023-06-15 21:31:33,846 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.update
+2023-06-15 21:31:33,846 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.update
+2023-06-15 21:31:33,847 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.updateById
+2023-06-15 21:31:33,847 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.updateById
+2023-06-15 21:31:33,848 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectById
+2023-06-15 21:31:33,848 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectById
+2023-06-15 21:31:33,849 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectBatchIds
+2023-06-15 21:31:33,849 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectBatchIds
+2023-06-15 21:31:33,850 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectByMap
+2023-06-15 21:31:33,850 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectByMap
+2023-06-15 21:31:33,852 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectOne
+2023-06-15 21:31:33,852 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectOne
+2023-06-15 21:31:33,853 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectCount
+2023-06-15 21:31:33,853 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectCount
+2023-06-15 21:31:33,855 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectMaps
+2023-06-15 21:31:33,855 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectMaps
+2023-06-15 21:31:33,856 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectMapsPage
+2023-06-15 21:31:33,856 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectMapsPage
+2023-06-15 21:31:33,858 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectObjs
+2023-06-15 21:31:33,858 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectObjs
+2023-06-15 21:31:33,859 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectList
+2023-06-15 21:31:33,859 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectList
+2023-06-15 21:31:33,861 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectPage
+2023-06-15 21:31:33,861 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessHistoryMapper.selectPage
+2023-06-15 21:31:33,870 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.insert
+2023-06-15 21:31:33,870 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.insert
+2023-06-15 21:31:33,872 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.delete
+2023-06-15 21:31:33,872 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.delete
+2023-06-15 21:31:33,873 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteByMap
+2023-06-15 21:31:33,873 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteByMap
+2023-06-15 21:31:33,874 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteById
+2023-06-15 21:31:33,874 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteById
+2023-06-15 21:31:33,875 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteBatchIds
+2023-06-15 21:31:33,875 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.deleteBatchIds
+2023-06-15 21:31:33,877 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.update
+2023-06-15 21:31:33,877 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.update
+2023-06-15 21:31:33,878 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.updateById
+2023-06-15 21:31:33,878 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.updateById
+2023-06-15 21:31:33,879 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectById
+2023-06-15 21:31:33,879 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectById
+2023-06-15 21:31:33,888 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectBatchIds
+2023-06-15 21:31:33,888 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectBatchIds
+2023-06-15 21:31:33,890 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectByMap
+2023-06-15 21:31:33,890 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectByMap
+2023-06-15 21:31:33,891 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectOne
+2023-06-15 21:31:33,891 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectOne
+2023-06-15 21:31:33,893 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectCount
+2023-06-15 21:31:33,893 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectCount
+2023-06-15 21:31:33,895 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectMaps
+2023-06-15 21:31:33,895 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectMaps
+2023-06-15 21:31:33,897 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectMapsPage
+2023-06-15 21:31:33,897 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectMapsPage
+2023-06-15 21:31:33,899 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectObjs
+2023-06-15 21:31:33,899 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectObjs
+2023-06-15 21:31:33,901 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectList
+2023-06-15 21:31:33,901 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectList
+2023-06-15 21:31:33,903 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectPage
+2023-06-15 21:31:33,903 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MediaProcessMapper.selectPage
+2023-06-15 21:31:33,912 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.insert
+2023-06-15 21:31:33,912 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.insert
+2023-06-15 21:31:33,914 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.delete
+2023-06-15 21:31:33,914 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.delete
+2023-06-15 21:31:33,915 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteByMap
+2023-06-15 21:31:33,915 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteByMap
+2023-06-15 21:31:33,916 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteById
+2023-06-15 21:31:33,916 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteById
+2023-06-15 21:31:33,917 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteBatchIds
+2023-06-15 21:31:33,917 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.deleteBatchIds
+2023-06-15 21:31:33,919 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.update
+2023-06-15 21:31:33,919 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.update
+2023-06-15 21:31:33,920 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.updateById
+2023-06-15 21:31:33,920 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.updateById
+2023-06-15 21:31:33,921 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectById
+2023-06-15 21:31:33,921 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectById
+2023-06-15 21:31:33,922 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectBatchIds
+2023-06-15 21:31:33,922 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectBatchIds
+2023-06-15 21:31:33,923 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectByMap
+2023-06-15 21:31:33,923 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectByMap
+2023-06-15 21:31:33,924 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectOne
+2023-06-15 21:31:33,924 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectOne
+2023-06-15 21:31:33,926 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectCount
+2023-06-15 21:31:33,926 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectCount
+2023-06-15 21:31:33,927 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectMaps
+2023-06-15 21:31:33,927 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectMaps
+2023-06-15 21:31:33,928 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectMapsPage
+2023-06-15 21:31:33,928 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectMapsPage
+2023-06-15 21:31:33,930 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectObjs
+2023-06-15 21:31:33,930 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectObjs
+2023-06-15 21:31:33,932 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectList
+2023-06-15 21:31:33,932 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectList
+2023-06-15 21:31:33,934 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectPage
+2023-06-15 21:31:33,934 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageHistoryMapper.selectPage
+2023-06-15 21:31:33,944 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.insert
+2023-06-15 21:31:33,944 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.insert
+2023-06-15 21:31:33,947 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.delete
+2023-06-15 21:31:33,947 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.delete
+2023-06-15 21:31:33,948 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteByMap
+2023-06-15 21:31:33,948 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteByMap
+2023-06-15 21:31:33,950 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteById
+2023-06-15 21:31:33,950 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteById
+2023-06-15 21:31:33,951 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteBatchIds
+2023-06-15 21:31:33,951 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.deleteBatchIds
+2023-06-15 21:31:33,953 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.update
+2023-06-15 21:31:33,953 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.update
+2023-06-15 21:31:33,955 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.updateById
+2023-06-15 21:31:33,955 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.updateById
+2023-06-15 21:31:33,955 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectById
+2023-06-15 21:31:33,955 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectById
+2023-06-15 21:31:33,957 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectBatchIds
+2023-06-15 21:31:33,957 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectBatchIds
+2023-06-15 21:31:33,958 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectByMap
+2023-06-15 21:31:33,958 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectByMap
+2023-06-15 21:31:33,959 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectOne
+2023-06-15 21:31:33,959 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectOne
+2023-06-15 21:31:33,961 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectCount
+2023-06-15 21:31:33,961 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectCount
+2023-06-15 21:31:33,962 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectMaps
+2023-06-15 21:31:33,962 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectMaps
+2023-06-15 21:31:33,964 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectMapsPage
+2023-06-15 21:31:33,964 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectMapsPage
+2023-06-15 21:31:33,966 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectObjs
+2023-06-15 21:31:33,966 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectObjs
+2023-06-15 21:31:33,969 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectList
+2023-06-15 21:31:33,969 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectList
+2023-06-15 21:31:33,971 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectPage
+2023-06-15 21:31:33,971 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.video.media.mapper.MqMessageMapper.selectPage
+2023-06-15 21:31:33,991 INFO [main][StartupInfoLogger.java:61] - Started MinIOTest in 5.137 seconds (JVM running for 7.653)
+2023-06-15 21:31:33,991 INFO [main][StartupInfoLogger.java:61] - Started MinIOTest in 5.137 seconds (JVM running for 7.653)
+2023-06-15 21:31:33,997 INFO [main][ClientWorker.java:169] - [fixed-localhost_8848] [subscribe] media-service.properties+DEFAULT_GROUP
+2023-06-15 21:31:33,997 INFO [main][ClientWorker.java:169] - [fixed-localhost_8848] [subscribe] media-service.properties+DEFAULT_GROUP
+2023-06-15 21:31:34,000 INFO [main][CacheData.java:92] - [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=media-service.properties, group=DEFAULT_GROUP, cnt=1
+2023-06-15 21:31:34,000 INFO [main][CacheData.java:92] - [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=media-service.properties, group=DEFAULT_GROUP, cnt=1
+2023-06-15 21:31:34,001 INFO [main][ClientWorker.java:169] - [fixed-localhost_8848] [subscribe] media-service+DEFAULT_GROUP
+2023-06-15 21:31:34,001 INFO [main][ClientWorker.java:169] - [fixed-localhost_8848] [subscribe] media-service+DEFAULT_GROUP
+2023-06-15 21:31:34,001 INFO [main][CacheData.java:92] - [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=media-service, group=DEFAULT_GROUP, cnt=1
+2023-06-15 21:31:34,001 INFO [main][CacheData.java:92] - [fixed-localhost_8848] [add-listener] ok, tenant=, dataId=media-service, group=DEFAULT_GROUP, cnt=1
+2023-06-15 21:31:34,012 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service.propertiesDEFAULT_GROUPmedia-serviceDEFAULT_GROUP}
+2023-06-15 21:31:34,012 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service.propertiesDEFAULT_GROUPmedia-serviceDEFAULT_GROUP}
+2023-06-15 21:31:34,013 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@5bb2251b]
+2023-06-15 21:31:34,013 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@5bb2251b]
+2023-06-15 21:31:34,073 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service.propertiesDEFAULT_GROUPmedia-serviceDEFAULT_GROUP}
+2023-06-15 21:31:34,073 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:476] - HTTP method: POST, url: http://localhost:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=media-service.propertiesDEFAULT_GROUPmedia-serviceDEFAULT_GROUP}
+2023-06-15 21:31:34,074 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@5bb2251b]
+2023-06-15 21:31:34,074 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-localhost_8848][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@5bb2251b]
+2023-06-15 21:31:34,498 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-15 21:31:34,498 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-06-15 21:31:34,499 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-06-15 21:31:34,499 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
